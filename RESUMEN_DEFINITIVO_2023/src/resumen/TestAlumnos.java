@@ -15,9 +15,6 @@ public class TestAlumnos {
 		boolean tieneDudas;
 		int nota1,nota2;
 		
-		//holavadyrrree
-		//FUNCIONOOOO
-		
 		//Pediremos datos de un alumno para luego crear el objeto que los guarde:
 		
 		System.out.println("Ingrese el nombre del alumno:");
