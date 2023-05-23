@@ -16,6 +16,7 @@ public class TestAlumnos {
 		int nota1,nota2;
 		
 		//holavadyrrree
+		//FUNCIONOOOO
 		
 		//Pediremos datos de un alumno para luego crear el objeto que los guarde:
 		
