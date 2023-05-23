@@ -15,7 +15,7 @@ public class TestAlumnos {
 		boolean tieneDudas;
 		int nota1,nota2;
 		
-		//holavady
+		//holavadyrr
 		
 		//Pediremos datos de un alumno para luego crear el objeto que los guarde:
 		
